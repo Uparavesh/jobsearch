@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Frontend Developer",
+    "company": "Tech Innovators Inc.",
+    "location": "San Francisco, CA",
+    "type": "Full-Time",
+    "description": "Seeking a skilled frontend developer with 5+ years of React and Node.js experience to build next-gen web applications.",
+    "posted_date": "2025-10-27"
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Designer",
+    "company": "Creative Solutions",
+    "location": "New York, NY",
+    "type": "Contract",
+    "description": "We are looking for a creative UI/UX designer to join our team and help design intuitive and beautiful user interfaces.",
+    "posted_date": "2025-10-26"
+  },
+  {
+    "id": 3,
+    "title": "Junior Backend Engineer",
+    "company": "DataFlow Analytics",
+    "location": "Austin, TX (Remote)",
+    "type": "Full-Time",
+    "description": "Entry-level position for a backend engineer. Knowledge of Python (Django/Flask) and SQL databases is required.",
+    "posted_date": "2025-10-25"
+  },
+  {
+    "id": 4,
+    "title": "Product Manager",
+    "company": "AgileSoft",
+    "location": "London, UK",
+    "type": "Full-Time",
+    "description": "Lead our product development teams, define product roadmaps, and work closely with stakeholders to deliver value.",
+    "posted_date": "2025-10-25"
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "company": "CloudNine Services",
+    "location": "Berlin, Germany",
+    "type": "Full-Time",
+    "description": "Manage our CI/CD pipelines, automate deployments, and ensure the reliability of our cloud infrastructure (AWS/GCP).",
+    "posted_date": "2025-10-24"
+  },
+  {
+    "id": 6,
+    "title": "Marketing Intern",
+    "company": "Growth Co.",
+    "location": "Boston, MA",
+    "type": "Internship",
+    "description": "A great opportunity for students to learn about digital marketing, SEO, and content creation in a fast-paced environment.",
+    "posted_date": "2025-10-23"
+  }
+]
